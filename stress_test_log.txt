@@ -1,0 +1,7 @@
+===== CODE CŨ =====
+Số vòng lặp: 100000000
+Thời gian chạy: 5000 ms
+
+===== CODE MỚI =====
+Số vòng lặp: 49995000
+Thời gian chạy: 1200 ms
